@@ -1,15 +1,27 @@
-# Hari Krishna
+# Hari Krishna 👋
 
-## About
+## About Me 🚀
+I'm a passionate college student and programmer with expertise in mobile and web development. I love turning ideas into functional applications and continuously expanding my technical skills.
 
-I am a college student and a programmer. :)
+## 🛠 Tech Stack
 
-## Languages Known 
+### Languages
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-important)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 
-1. Python (Intermediate)
-2. JS (Beginner)
-3. Kotlin (Intermediate)
+### Technologies & Frameworks
+- Android Development
+- Web Development
+- Basic Front-end Technologies
 
-## Skills 
-1. Android Development
-2. Web development (Basics)
+## 🎯 Goals
+- Build robust, user-friendly mobile applications
+- Contribute to open-source projects
+- Continuously learn and grow as a developer
+
+## 📫 Get in Touch
+- Email: [kitsunelynx2@gmail.com]
+- Instagram: [https://instagram.com/kitsunelynx]
+
+---
