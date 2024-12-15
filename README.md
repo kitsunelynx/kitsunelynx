@@ -20,6 +20,8 @@ I'm a passionate college student and programmer with a bit of experience in mobi
 - Contribute to open-source projects
 - Continuously learn and grow as a developer
 
+[![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsunelynx)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 Get in Touch
 - Email: [kitsunelynx2@gmail.com]
 - Twitter: [https://x.com/kitsunelynx0]
