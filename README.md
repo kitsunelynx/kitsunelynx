@@ -51,8 +51,8 @@ I'm a beginner excited to learn Artificial Intelligence and Machine Learning usi
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=student-ai-ml&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=student-ai-ml&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kitsunelynx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kitsunelynx&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Current Goals
@@ -76,7 +76,7 @@ Currently exploring:
 
 Want to share tips or chat about AI/ML? Reach out!
 
-[![Email](https://img.shields.io/badge/Email-student.ai.ml%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:student.ai.ml@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kitsunelynx2%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:kitsunelynx2@gmail.com)
 
 </div>
 
