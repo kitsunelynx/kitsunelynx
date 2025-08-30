@@ -8,42 +8,46 @@
 
 ## 🚀 About Me
 
-> A curious student diving into AI/ML with Python, one step at a time
+> A curious student diving into **Web Development & AI APIs**, one build at a time.
 
-I'm a beginner excited to learn Artificial Intelligence and Machine Learning using Python. I love exploring new concepts and can’t wait to start building cool projects.
+I’m learning how to build modern apps with React, Bun, and Capacitor. Excited to explore how AI can power real-world web projects.
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+### Languages & Runtime
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
-### Libraries & Tools
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=blue)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Capacitor](https://img.shields.io/badge/capacitor-%23000000.svg?style=for-the-badge&logo=capacitor&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-## 🌟 Project Ideas
+## 🌟 Project Focus
 
 <table>
   <tr>
     <td align="center">
-      <strong>📊 Data Exploration</strong><br>
-      Analyzing datasets to find patterns
+      <strong>🌐 Web Apps</strong><br>
+      Building modern React + Bun powered websites
     </td>
     <td align="center">
-      <strong>🤖 Machine Learning</strong><br>
-      Building simple prediction models
+      <strong>⚡ AI APIs</strong><br>
+      Integrating AI into real-world apps
     </td>
     <td align="center">
-      <strong>⚙️ Automation</strong><br>
-      Writing scripts to simplify tasks
+      <strong>📱 Cross-Platform</strong><br>
+      Using Capacitor for mobile + desktop apps
     </td>
   </tr>
 </table>
@@ -57,24 +61,22 @@ I'm a beginner excited to learn Artificial Intelligence and Machine Learning usi
 
 ## 🎯 Current Goals
 
-- 📚 Master Python basics for AI/ML
-- 🧠 Understand core ML algorithms
-- 🚀 Start my first data or ML project
-- 🤝 Connect with other learners
+- 📚 Get comfortable with Bun + React development
+- ⚡ Learn how to integrate AI APIs into projects
+- 🚀 Deploy my first cross-platform app with Capacitor
+- 🤝 Connect with other web + AI builders
 
 ## 🌱 Learning Journey
 
 Currently exploring:
-- Python fundamentals
-- Data analysis with Pandas and NumPy
-- ML basics with Scikit-learn
-- Visualizations with Matplotlib
+- React and modern frontend practices
+- Bun as a fast JavaScript runtime
+- Capacitor for mobile/web builds
+- AI APIs for smarter applications
 
 ## 📫 Let's Connect!
 
 <div align="center">
-
-Want to share tips or chat about AI/ML? Reach out!
 
 [![Email](https://img.shields.io/badge/Email-kitsunelynx2%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:kitsunelynx2@gmail.com)
 
